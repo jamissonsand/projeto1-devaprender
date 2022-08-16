@@ -1,0 +1,13 @@
+1. git pull da branch principal // git pull para sincronizar a versão
+da nuvem com a do PC.
+2. gerar uma nova branch a partir da branch principal
+3. trabalhar e adicionar novas funcionalidade na nova branch
+que criou
+4. finalizar o trabalho na branch temporária
+5. git checkout na branch principal // git checkout <nome da branch>
+para alternar entre as branch;
+6. git pull 
+7. git merge para unir o código da branch temporária coma branch
+principal (depois de testar)
+8. Git push da branch principal // git push para enviar a att para a 
+nuvem.
